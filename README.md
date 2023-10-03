@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gauravprajapati421
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning trending skills          
+- 🌱 I’m currently learning REACT         
 - 💞️ I’m looking to collaborate on open source documentation
-- 📫 search in  search tab
+- 📫 How to reach me gauravprajapati2022@gmail.com
 
 <!---
 gauravprajapati421/gauravprajapati421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
